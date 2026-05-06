@@ -1,0 +1,34 @@
+1. Understanding Transfer Learning
+
+I asked AI: Explain in easy words how transfer learning works when using ResNet50.
+My reason: I wanted to understand why the notebook keeps the pretrained layers and only changes the final layer.
+
+2. Fixing Google Drive Mount Problems
+
+I asked AI: Why do I get this error when I try to mount Google Drive: ‘Cannot find mount point /content/drive’?
+My reason: I could not access my files in Drive and needed to fix it to continue.
+
+3. Learning About Image Transforms
+
+I asked AI: What do Resize, CenterCrop, ToTensor, and Normalize mean in my code?
+My reason: I wanted to know what each preprocessing step does to the images.
+
+4. Saving the Best Model Correctly
+
+I asked AI: How do I save my best model as a .pth file? The code runs but the file doesn’t show up in Drive.
+My reason: I needed to fix the save path so the model would actually be stored.
+
+5. Understanding Loss and Accuracy
+
+I asked AI: Explain in simple words what training loss and accuracy mean.
+My reason: I wanted to better understand the numbers shown during training.
+
+6. Understanding Wrong Predictions
+
+I asked AI: Why is my model predicting the wrong class for some images?
+My reason: I needed help to understand why images were incorrectly predicted.
+
+7. Understanding the Confusion Matrix
+
+I asked AI: Explain in simple English how to read a confusion matrix.
+My reason: I wanted to understand where the model was making mistakes.
