@@ -1,0 +1,10 @@
+# Plant Disease Classification
+## Model Performance
+
+Model: ResNet50 (Pre-trained on ImageNet)
+Epochs: 10
+Best validation accuracy: 0.9580 (95.80%)
+
+Notes:
+1. Total parameters: 23.59 M
+2. Only the final classification layer was trained.
