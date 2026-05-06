@@ -1,0 +1,23 @@
+Hello HR Team,
+
+My answers are below.
+
+1. Supply chain optimization & regulatory compliance in warehouse operations
+At TexOp Freight Services, I integrated DOT HazMat compliance checks directly into the outbound pick-and-pack workflow, ensuring documentation accuracy was treated as part of the operational process rather than an afterthought. This approach, combined with a re-slotting initiative I proposed for fast-moving SKUs, reduced both travel time on the floor and the risk of compliance errors caused by rushed last-minute handling.
+
+2. A typical day as a Warehouse Associate
+A typical day involved receiving and verifying inbound shipments against purchase orders, executing pick-and-pack tasks within productivity targets, and preparing outbound documentation including bills of lading and HazMat manifests. My understanding of inventory control systems allowed me to flag discrepancies during cycle counts in real time, while my familiarity with carrier requirements ensured that shipments were loaded and documented in full compliance before departure.
+
+3. Inventory control challenge involving HazMat compliance
+During a routine cycle count at TexOp Freight Services, I discovered that a batch of HazMat-classified items had been stored in a non-compliant location due to a mislabeling error earlier in the receiving process. I immediately quarantined the affected inventory, corrected the location records in the WMS, updated the corresponding documentation, and worked with the compliance team to implement a secondary verification step at receiving to prevent recurrence.
+
+4. A key moment of professional growth
+Being tasked with end-user training during the WMS module implementation at Lone Star Supply Chain Solutions was a turning point for me, as it required me to translate complex system logic into practical guidance for warehouse floor staff. That experience deepened my appreciation for the human side of operations and reinforced my belief that technology only delivers results when the people using it fully understand and trust it.
+
+5. The Warehouse Associate role within long-term career goals
+I see the Warehouse Associate role as a critical anchor point in supply chain optimization, the place where planning, compliance, and execution either come together or break down. Strengthening my hands-on operational expertise at this level will make me a more effective contributor as I continue to grow into roles that bridge floor operations and strategic supply chain management.
+
+Thank you and best regards, 
+
+Roberto Sarmiento
+Logistics
