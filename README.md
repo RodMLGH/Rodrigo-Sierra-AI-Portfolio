@@ -24,6 +24,14 @@ My career goal is to apply AI to optimize processes, automate repetitive work, i
 
 ---
 
+## Applied AI Approach
+
+My approach to artificial intelligence is practical and business-oriented. I focus on understanding the real-world problem first, then selecting the appropriate AI methods, tools, and integrations to create a useful solution.
+
+Across my projects, I apply a combination of process analysis, data preparation, model-based reasoning, workflow automation, systems integration, and human review and validation. This reflects my belief that AI is not only about coding or training models, but also about designing solutions that improve decisions, reduce manual work, and create measurable value in real operational environments.
+
+---
+
 ## Program
 
 **Associate of Applied Science in Artificial Intelligence**  
