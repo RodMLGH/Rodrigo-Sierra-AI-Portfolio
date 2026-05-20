@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an Industrial Engineer and Applied Artificial Intelligence student at Houston City College, focused on AI-enabled process optimization, workflow automation, business systems, and enterprise transformation.
+I am an Industrial Engineer and Artificial Intelligence A.A.S. graduate from Houston City College, focused on AI-enabled process optimization, workflow automation, business systems, and enterprise transformation.
 
 My professional background combines experience in SAP HCM, business process improvement, change management, project coordination, strategic planning, and enterprise system implementation. Through my Applied AI studies, I am expanding this experience with hands-on skills in machine learning, deep learning, computer vision, robotics platforms, AI agents, and workflow automation.
 
@@ -35,7 +35,7 @@ Across my projects, I apply a combination of process analysis, data preparation,
 ## Program
 
 **Associate of Applied Science in Artificial Intelligence**  
-Houston City College
+Graduate May 2026 - Houston City College
 
 ---
 
