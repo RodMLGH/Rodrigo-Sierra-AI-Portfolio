@@ -73,6 +73,10 @@ This project does not train a custom machine learning model. Instead, it integra
 
 The AI supports candidate shortlisting, but the final hiring decision remains with human recruiters.
 
+## Data and Access Note
+
+The original Airtable base and Google Drive folders were created for the academic team project and are not publicly shared because they may contain private configuration, account-specific access, or team-owned resources. This repository documents the workflow architecture, process logic, AI integration, and implementation approach using screenshots, workflow descriptions, and reproducible setup guidance where possible.
+
 ## Limitations
 - Requires active API credentials and internet access.
 - AI output quality depends on the model response.
