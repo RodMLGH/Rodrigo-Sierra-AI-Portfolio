@@ -35,7 +35,8 @@ Across my projects, I apply a combination of process analysis, data preparation,
 ## Program
 
 **Associate of Applied Science in Artificial Intelligence**  
-Graduate May 2026 - Houston City College
+Houston City College  
+Graduate: May 2026
 
 ---
 
@@ -53,6 +54,53 @@ Graduate May 2026 - Houston City College
 ---
 
 ## Featured Course Projects
+
+### Deep Learning in Artificial Intelligence - ITAI2376  
+#### Workforce Scheduling Optimization Agent
+
+This project is an AI-based workforce scheduling optimization system for a synthetic manufacturing environment. It simulates a 24/7 production facility where employees must be assigned to shifts based on forecasted demand, skills, availability, weekly hour limits, and operational constraints.
+
+The system uses a multi-agent architecture coordinated with CrewAI. One agent forecasts staffing demand using an LSTM model, while another agent creates and validates schedules using OR-Tools and generates manager-friendly explanations using Google Gemini.
+
+**Key skills demonstrated:**
+- Deep learning forecasting with LSTM.
+- Multi-agent system design.
+- Constraint-based optimization.
+- Synthetic data generation.
+- AI-generated business explanations.
+- Workforce planning and operational decision support.
+
+**Future Improvements:**
+- Extend scheduling from 3 days to a full 7-day planning horizon.
+- Add more real-world constraints such as employee preferences, overtime policies, absence patterns, and role-specific certifications.
+- Improve Streamlit interface for interactive scenario testing.
+- Add dashboard metrics for coverage, labor cost, unfilled demand, and schedule quality.
+
+
+[View Project](./Deep-Learning-ITAI2376/Workforce-Scheduling-Optimization-Agent)
+
+---
+
+### Artificial Intelligence Resources & References - ITAI2277  
+#### AI-Powered Integrated Recruitment System
+
+This project is an AI-powered recruitment automation system designed to reduce manual resume screening and improve consistency in candidate evaluation.
+
+The solution uses n8n as the workflow orchestrator to connect Gmail, Google Drive, Airtable, Google Calendar, and OpenAI GPT models. It receives resumes by email, extracts candidate information, analyzes resumes with an LLM, matches candidates to job openings, sends questionnaires, evaluates responses, updates candidate status, and supports interview scheduling.
+
+This project does not focus on training a custom model. Instead, it demonstrates practical AI deployment, automation, and systems integration using existing AI models and business tools.
+
+**Key skills demonstrated:**
+- AI workflow automation.
+- LLM-based resume analysis.
+- Candidate scoring and shortlisting.
+- API and cloud service integration.
+- Recruitment process optimization.
+- Human-in-the-loop AI decision support.
+
+[View Project](./AI-Resources-References-ITAI2277/AI-Powered-Recruitment-System)
+
+---
 
 ### Computer Vision - ITAI1378  
 #### Plant Disease Classification Project
@@ -87,46 +135,6 @@ The project connects theoretical robotics concepts with practical experimentatio
 - Testing and troubleshooting robotic behavior.
 
 [View Project](./ROS-and-AI-Platforms-ITAI2374/PiCar-X-Project)
-
----
-
-### Deep Learning in Artificial Intelligence - ITAI2376  
-#### Workforce Scheduling Optimization Agent
-
-This project is an AI-based workforce scheduling optimization system for a synthetic manufacturing environment. It simulates a 24/7 production facility where employees must be assigned to shifts based on forecasted demand, skills, availability, weekly hour limits, and operational constraints.
-
-The system uses a multi-agent architecture coordinated with CrewAI. One agent forecasts staffing demand using an LSTM model, while another agent creates and validates schedules using OR-Tools and generates manager-friendly explanations using Google Gemini.
-
-**Key skills demonstrated:**
-- Deep learning forecasting with LSTM.
-- Multi-agent system design.
-- Constraint-based optimization.
-- Synthetic data generation.
-- AI-generated business explanations.
-- Workforce planning and operational decision support.
-
-[View Project](./Deep-Learning-ITAI2376/Workforce-Scheduling-Optimization-Agent)
-
----
-
-### Artificial Intelligence Resources & References - ITAI2277  
-#### AI-Powered Integrated Recruitment System
-
-This project is an AI-powered recruitment automation system designed to reduce manual resume screening and improve consistency in candidate evaluation.
-
-The solution uses n8n as the workflow orchestrator to connect Gmail, Google Drive, Airtable, Google Calendar, and OpenAI GPT models. It receives resumes by email, extracts candidate information, analyzes resumes with an LLM, matches candidates to job openings, sends questionnaires, evaluates responses, updates candidate status, and supports interview scheduling.
-
-This project does not focus on training a custom model. Instead, it demonstrates practical AI deployment, automation, and systems integration using existing AI models and business tools.
-
-**Key skills demonstrated:**
-- AI workflow automation.
-- LLM-based resume analysis.
-- Candidate scoring and shortlisting.
-- API and cloud service integration.
-- Recruitment process optimization.
-- Human-in-the-loop AI decision support.
-
-[View Project](./AI-Resources-References-ITAI2277/AI-Powered-Recruitment-System)
 
 ---
 
@@ -166,10 +174,10 @@ My target areas include:
 ## Repository Navigation
 
 - [Course Projects Summary](./CourseProjects.md)
-- [Computer Vision - Plant Disease Classification](./Computer-Vision-ITAI1378/Plant-Disease-Classification-Project)
-- [Robotics - PiCar-X Project](./ROS-and-AI-Platforms-ITAI2374/PiCar-X-Project)
 - [Deep Learning - Workforce Scheduling Optimization Agent](./Deep-Learning-ITAI2376/Workforce-Scheduling-Optimization-Agent)
 - [AI Resources & References - AI-Powered Recruitment System](./AI-Resources-References-ITAI2277/AI-Powered-Recruitment-System)
+- [Computer Vision - Plant Disease Classification](./Computer-Vision-ITAI1378/Plant-Disease-Classification-Project)
+- [Robotics - PiCar-X Project](./ROS-and-AI-Platforms-ITAI2374/PiCar-X-Project)
 
 ---
 
