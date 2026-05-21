@@ -76,7 +76,6 @@ The system uses a multi-agent architecture coordinated with CrewAI. One agent fo
 - Improve Streamlit interface for interactive scenario testing.
 - Add dashboard metrics for coverage, labor cost, unfilled demand, and schedule quality.
 
-
 [View Project](./Deep-Learning-ITAI2376/Workforce-Scheduling-Optimization-Agent)
 
 ---
